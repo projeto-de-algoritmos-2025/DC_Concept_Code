@@ -23,10 +23,10 @@ Este projeto busca reforçar conceitos teóricos de Dividir e Conquistar com uma
 
 ## 🖼️ Screenshots
 
-<p align="center">Figura 1 - ?</p>
+<p align="center">Figura 1 - Calculadora Karatsuba</p>
 
 <p align="center">
-  <img src="?" alt="?" width="500"/>
+  <img src="/assets/karatsuba.png" alt="Karatsuba" width="500"/>
 </p>
 
 <p align="center" style="font-size: 14px;">
@@ -46,15 +46,15 @@ Neste vídeo, apresentamos o trabalho desenvolvido, abordando os principais pont
 
 ### ✅ Pré-requisitos
 
-- Sistema operacional: **Windows ou Linux**
-- ?
+- Sistema operacional: Windows ou Linux
+- Compilador C (ex: GCC)
 
 ---
 
 ## ⚙️ Instalação e Execução
 
-**Linguagem:** ?
-**Framework:** ?
+- **Linguagem:** C
+- **Framework:** Nenhum (execução terminal)
 
 1. **Clone o repositório:**
 
@@ -79,15 +79,17 @@ gcc main.c -o run
 
 Após executar o programa, siga os seguintes passos:
 
-1. **?:**  
-   - ?
+1. **Entrada de dados:**
+Digite dois números inteiros grandes para multiplicação.
 
-2. **?:**  
-   - ?
+2. **Processamento:**
+O programa aplica o algoritmo de Karatsuba, dividindo, combinando e calculando os resultados parciais.
+
+3. **Saída de dados:**
+Exibe o resultado da multiplicação por Karatsuba e compara com a multiplicação direta, validando a resposta.
 
 ---
 
 ## 🧠 Outros
 
-- O projeto foi planejado de forma a demonstrar **visualmente** o comportamento do Algorítmo Ambicioso.
-- ?
+- O projeto foi estruturado para demonstrar o comportamento eficiente do algoritmo de Karatsuba, servindo como base para estudos de algoritmos recursivos e técnicas de otimização via Dividir e Conquistar.
