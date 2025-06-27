@@ -46,15 +46,15 @@ Neste vídeo, apresentamos o trabalho desenvolvido, abordando os principais pont
 
 ### ✅ Pré-requisitos
 
-- Sistema operacional: **Windows ou Linux**
-- ?
+- Sistema operacional: Windows ou Linux
+- Compilador C (ex: GCC)
 
 ---
 
 ## ⚙️ Instalação e Execução
 
-**Linguagem:** ?
-**Framework:** ?
+- **Linguagem:** C
+- **Framework:** Nenhum (execução terminal)
 
 1. **Clone o repositório:**
 
@@ -79,15 +79,15 @@ gcc main.c -o run
 
 Após executar o programa, siga os seguintes passos:
 
-1. **?:**  
-   - ?
+1. **Entrada de dados:**
+Digite dois números inteiros grandes para multiplicação.
 
-2. **?:**  
-   - ?
+2. **Processamento:**
+O programa aplica o algoritmo de Karatsuba, dividindo, combinando e calculando os resultados parciais.
+
+3. **Saída de dados:**
+Exibe o resultado da multiplicação por Karatsuba e compara com a multiplicação direta, validando a resposta.
 
 ---
 
 ## 🧠 Outros
-
-- O projeto foi planejado de forma a demonstrar **visualmente** o comportamento do Algorítmo Ambicioso.
-- ?
