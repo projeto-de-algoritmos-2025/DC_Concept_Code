@@ -91,3 +91,5 @@ Exibe o resultado da multiplicação por Karatsuba e compara com a multiplicaç�
 ---
 
 ## 🧠 Outros
+
+- O projeto foi estruturado para demonstrar o comportamento eficiente do algoritmo de Karatsuba, servindo como base para estudos de algoritmos recursivos e técnicas de otimização via Dividir e Conquistar.
