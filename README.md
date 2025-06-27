@@ -23,10 +23,10 @@ Este projeto busca reforçar conceitos teóricos de Dividir e Conquistar com uma
 
 ## 🖼️ Screenshots
 
-<p align="center">Figura 1 - ?</p>
+<p align="center">Figura 1 - Calculadora Karatsuba</p>
 
 <p align="center">
-  <img src="?" alt="?" width="500"/>
+  <img src="/assets/karatsuba.png" alt="Karatsuba" width="500"/>
 </p>
 
 <p align="center" style="font-size: 14px;">
