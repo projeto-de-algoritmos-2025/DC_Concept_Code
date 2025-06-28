@@ -40,7 +40,7 @@ Este projeto busca reforçar conceitos teóricos de Dividir e Conquistar com uma
 
 Neste vídeo, apresentamos o trabalho desenvolvido, abordando os principais pontos desenvolvidos ao longo do projeto.
 
-[Assista no Youtube](?)
+[Assista no Youtube](https://www.youtube.com/watch?v=pgZLPxOJU-U)
 
 ---
 
